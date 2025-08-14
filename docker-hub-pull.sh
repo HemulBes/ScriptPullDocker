@@ -2,8 +2,8 @@
 # Script to pull and run container from Docker Hub
 
 # Replace with the actual Docker Hub username and image name
-DOCKER_USERNAME="yourusername"
-IMAGE_NAME="records-app"
+DOCKER_USERNAME="HemulBes"
+IMAGE_NAME="V4-web"
 TAG="latest"
 
 echo "Setting up Records App from Docker Hub..."
