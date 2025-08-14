@@ -2,7 +2,7 @@
 # Script to pull and run container from Docker Hub
 
 # Replace with the actual Docker Hub username and image name
-DOCKER_USERNAME="HemulBes"
+DOCKER_USERNAME="hemulbes"
 IMAGE_NAME="V4-web"
 TAG="latest"
 
