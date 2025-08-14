@@ -3,7 +3,7 @@
 
 # Replace with the actual Docker Hub username and image name
 DOCKER_USERNAME="hemulbes"
-IMAGE_NAME="V4-web"
+IMAGE_NAME="v4"
 TAG="latest"
 
 echo "Setting up Records App from Docker Hub..."
